@@ -26,6 +26,10 @@ body {
     width: 100%;
 }
 
+.headline p {
+    margin-bottom: 20px;
+}
+
 header {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
@@ -42,7 +46,7 @@ h1 {
     font-weight: 900;
     color: hsl(240, 21%, 20%);
     width: 90%;
-    margin: 0 auto;
+    margin: 0 auto 20px;
 }
 
 
